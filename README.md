@@ -1,1 +1,1 @@
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
