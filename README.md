@@ -4,4 +4,4 @@
 ![JavaScript](https://img.shields.io/badge/-Node.js-darkgreen?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-RaspberryPI-darkred?style=flat-square&logo=raspberryPI&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
